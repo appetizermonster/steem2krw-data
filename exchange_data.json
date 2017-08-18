@@ -1,35 +1,35 @@
 {
-  "modified_date": "2017-08-18T05:10:52.575Z",
+  "modified_date": "2017-08-18T05:40:53.657Z",
   "poloniex": {
-    "btc_steem": "0.00026157",
-    "btc_sbd": "0.00017953",
+    "btc_steem": "0.00025742",
+    "btc_sbd": "0.00017714",
     "trading_fee_per": "0.0025",
     "transfer_fee_btc": "0.0001",
     "withdraw_fee_steem": "0.01",
     "withdraw_fee_sbd": "0.01"
   },
   "bittrex": {
-    "btc_steem": "0.00026936",
-    "btc_sbd": "0.0002279",
+    "btc_steem": "0.00026856",
+    "btc_sbd": "0.00022358",
     "trading_fee_per": "0.0025",
     "transfer_fee_btc": "0.0001",
     "withdraw_fee_steem": "0.01",
     "withdraw_fee_sbd": "0.01"
   },
   "bithumb": {
-    "btc_krw": "4901000",
+    "btc_krw": "4922000",
     "trading_fee_per": "0.0015",
     "transfer_fee_btc": "0.0005",
     "withdraw_fee_krw": "1000"
   },
   "korbit": {
-    "btc_krw": "4892500",
+    "btc_krw": "4918500",
     "trading_fee_per": "0.002",
     "transfer_fee_btc": "0.001",
     "withdraw_fee_krw": "1000"
   },
   "coinone": {
-    "btc_krw": "4892500",
+    "btc_krw": "4925000",
     "trading_fee_per": "0.0015",
     "transfer_fee_btc": "0.0005",
     "withdraw_fee_krw": "1000"
